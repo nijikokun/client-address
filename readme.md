@@ -43,10 +43,6 @@ const handler = (req, res) {
 
 Returns either a `IPV4` or `IPV6` address.
 
-```js
-let IP = getClientAddress(req)
-```
-
 **`getClientAddress.v4(req) -> IPV4`**
 
 Returns a `IPV4` address.
