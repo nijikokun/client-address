@@ -1,0 +1,27 @@
+{
+  "name": "client-address",
+  "version": "1.0.0",
+  "description": "Obtain client ipv6 / ipv4 address from Node HTTP / HTTPS request",
+  "author": "Nijiko Yonskai <nijikokun@gmail.com>",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nijikokun/client-address.git"
+  },
+  "scripts": {
+    "test": "exit 0"
+  },
+  "keywords": [
+    "client",
+    "address",
+    "ipv4",
+    "ipv6",
+    "node",
+    "http",
+    "https",
+    "request",
+    "response",
+    "server"
+  ]
+}
